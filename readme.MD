@@ -77,7 +77,7 @@ This project implements a web scraping tool using the FastAPI framework to autom
 
 ```bash
 git clone https://github.com/Gautamaggrawal/FastAPI-scrapper
-FastAPI-scrapper
+cd FastAPI-scrapper
 ```
 
 ### Create a Virtual Environment
@@ -93,7 +93,7 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Set Up Environment Variables
+### Set Up Environment Variables (Optional)
 
 Create a `.env` file (optional) and add the following:
 
