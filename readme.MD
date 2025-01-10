@@ -77,6 +77,7 @@ This project implements a web scraping tool using the FastAPI framework to autom
 
 ```bash
 git clone https://github.com/Gautamaggrawal/FastAPI-scrapper
+FastAPI-scrapper
 ```
 
 ### Create a Virtual Environment
