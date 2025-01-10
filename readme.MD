@@ -115,6 +115,15 @@ uvicorn scraping_tool.app:app --reload
 
 - **Description**: Initiates the scraping process.
 - **Authentication**: Requires the `Authorization` header with the static token.
+- **Sample Curl**:
+
+```bash
+curl --location 'http://127.0.0.1:8000/scrape' \
+--header 'Authorization: Bearer your-static-token' \
+--header 'Content-Type: application/json' \
+--data '{"max_pages": 2, "proxy": null}'
+```
+
 - **Body**:
 
 ```json
@@ -136,6 +145,12 @@ uvicorn scraping_tool.app:app --reload
 
 - **Description**: Fetches the list of scraped products.
 - **Authentication**: Requires the `Authorization` header with the static token.
+- **Sample Curl**:
+
+```bash
+curl --location 'http://127.0.0.1:8000/products' \
+--header 'Authorization: Bearer your-static-token'
+```
 - **Response**:
 
 ```json

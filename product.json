@@ -1,13 +1,13 @@
 [
     {
-        "product_title": "Angelus Interlig Single Patie...",
-        "product_price": 1180.0,
-        "path_to_image": "images/Angelus_Interlig_Single_Patie....jpg"
-    },
-    {
         "product_title": "API Articulating Paper Forcep...",
         "product_price": 460.0,
         "path_to_image": "images/API_Articulating_Paper_Forcep....jpg"
+    },
+    {
+        "product_title": "Angelus Interlig Single Patie...",
+        "product_price": 1180.0,
+        "path_to_image": "images/Angelus_Interlig_Single_Patie....jpg"
     },
     {
         "product_title": "1 x GDC Extraction Forceps Lo...",
@@ -25,9 +25,19 @@
         "path_to_image": "images/Advance_Biotech_Surgicoll_Mes....jpg"
     },
     {
+        "product_title": "API Articulator For Typhodont...",
+        "product_price": 1280.0,
+        "path_to_image": "images/API_Articulator_For_Typhodont....jpg"
+    },
+    {
         "product_title": "Angelus Intermedium...",
         "product_price": 2990.0,
         "path_to_image": "images/Angelus_Intermedium....jpg"
+    },
+    {
+        "product_title": "Advanced Biotech Healiguide...",
+        "product_price": 1670.0,
+        "path_to_image": "images/Advanced_Biotech_Healiguide....jpg"
     },
     {
         "product_title": "3A MEDES Bleaching And Night ...",
@@ -40,14 +50,9 @@
         "path_to_image": "images/3M_Espe_Retraction_Capsule....jpg"
     },
     {
-        "product_title": "API Articulator For Typhodont...",
-        "product_price": 1280.0,
-        "path_to_image": "images/API_Articulator_For_Typhodont....jpg"
-    },
-    {
-        "product_title": "Advanced Biotech Healiguide...",
-        "product_price": 1670.0,
-        "path_to_image": "images/Advanced_Biotech_Healiguide....jpg"
+        "product_title": "API Articulator Hinge...",
+        "product_price": 72.0,
+        "path_to_image": "images/API_Articulator_Hinge....jpg"
     },
     {
         "product_title": "3m Espe Sof-Lex Finishing Str...",
@@ -60,9 +65,9 @@
         "path_to_image": "images/3m_Espe_Adper_Easy_Bond_Self-....jpg"
     },
     {
-        "product_title": "API Articulator Hinge...",
-        "product_price": 72.0,
-        "path_to_image": "images/API_Articulator_Hinge....jpg"
+        "product_title": "Advanced Biotech Hemocoll...",
+        "product_price": 590.0,
+        "path_to_image": "images/Advanced_Biotech_Hemocoll....jpg"
     },
     {
         "product_title": "Angelus Mta \u2013 1 Gm Whit...",
@@ -70,19 +75,9 @@
         "path_to_image": "images/Angelus_Mta_\u2013_1_Gm_Whit....jpg"
     },
     {
-        "product_title": "Advanced Biotech Hemocoll...",
-        "product_price": 590.0,
-        "path_to_image": "images/Advanced_Biotech_Hemocoll....jpg"
-    },
-    {
         "product_title": "API Articulator Ultra P2...",
         "product_price": 13600.0,
         "path_to_image": "images/API_Articulator_Ultra_P2....jpg"
-    },
-    {
-        "product_title": "3M ESPE Adper Scotchbond Mult...",
-        "product_price": 1195.0,
-        "path_to_image": "images/3M_ESPE_Adper_Scotchbond_Mult....jpg"
     },
     {
         "product_title": "3m Espe Sof-Lex Polishing Dis...",
@@ -90,14 +85,19 @@
         "path_to_image": "images/3m_Espe_Sof-Lex_Polishing_Dis....jpg"
     },
     {
-        "product_title": "Angelus MTA 0.14gm...",
-        "product_price": 990.0,
-        "path_to_image": "images/Angelus_MTA_0.14gm....jpg"
+        "product_title": "3M ESPE Adper Scotchbond Mult...",
+        "product_price": 1195.0,
+        "path_to_image": "images/3M_ESPE_Adper_Scotchbond_Mult....jpg"
     },
     {
         "product_title": "Advanced Biotech Osseograft D...",
         "product_price": 2795.0,
         "path_to_image": "images/Advanced_Biotech_Osseograft_D....jpg"
+    },
+    {
+        "product_title": "Angelus MTA 0.14gm...",
+        "product_price": 990.0,
+        "path_to_image": "images/Angelus_MTA_0.14gm....jpg"
     },
     {
         "product_title": "Api Autoclavable PMT Tray...",
@@ -115,24 +115,19 @@
         "path_to_image": "images/3m_Espe_Adper_Single_Bond_Uni....jpg"
     },
     {
-        "product_title": "Angelus Mta Applicator...",
-        "product_price": 5495.0,
-        "path_to_image": "images/Angelus_Mta_Applicator....jpg"
-    },
-    {
         "product_title": "Advanced Biotech Periodontal ...",
         "product_price": 785.0,
         "path_to_image": "images/Advanced_Biotech_Periodontal_....jpg"
     },
     {
+        "product_title": "Angelus Mta Applicator...",
+        "product_price": 5495.0,
+        "path_to_image": "images/Angelus_Mta_Applicator....jpg"
+    },
+    {
         "product_title": "Api Ball Burnisher (Bb18)...",
         "product_price": 175.0,
         "path_to_image": "images/Api_Ball_Burnisher_(Bb18)....jpg"
-    },
-    {
-        "product_title": "3m Espe Clinpro Sealant \u0335...",
-        "product_price": 1995.0,
-        "path_to_image": "images/3m_Espe_Clinpro_Sealant_\u0335....jpg"
     },
     {
         "product_title": "3m Espe Sof-Lex Spiral Wheels...",
@@ -143,6 +138,11 @@
         "product_title": "Airotor Cartridge (NSK Type)...",
         "product_price": 175.0,
         "path_to_image": "images/Airotor_Cartridge_(NSK_Type)....jpg"
+    },
+    {
+        "product_title": "3m Espe Clinpro Sealant \u0335...",
+        "product_price": 1995.0,
+        "path_to_image": "images/3m_Espe_Clinpro_Sealant_\u0335....jpg"
     },
     {
         "product_title": "Angelus Mta Fillapex Small Tu...",
@@ -180,6 +180,11 @@
         "path_to_image": "images/Api_Band_Pusher_(4870)....jpg"
     },
     {
+        "product_title": "Anabond Blu-Bite...",
+        "product_price": 730.0,
+        "path_to_image": "images/Anabond_Blu-Bite....jpg"
+    },
+    {
         "product_title": "3M Espe Composite Syringe Org...",
         "product_price": 995.0,
         "path_to_image": "images/3M_Espe_Composite_Syringe_Org....jpg"
@@ -188,11 +193,6 @@
         "product_title": "3M Espe SS Crown Primary Mola...",
         "product_price": 620.0,
         "path_to_image": "images/3M_Espe_SS_Crown_Primary_Mola....jpg"
-    },
-    {
-        "product_title": "Anabond Blu-Bite...",
-        "product_price": 730.0,
-        "path_to_image": "images/Anabond_Blu-Bite....jpg"
     },
     {
         "product_title": "Angelus MZ Primer...",
@@ -220,24 +220,19 @@
         "path_to_image": "images/Anabond_Dentocal....jpg"
     },
     {
-        "product_title": "Angelus Pinjet (5002)...",
-        "product_price": 600.0,
-        "path_to_image": "images/Angelus_Pinjet_(5002)....jpg"
-    },
-    {
         "product_title": "API Base Former Silicon Ring ...",
         "product_price": 1195.0,
         "path_to_image": "images/API_Base_Former_Silicon_Ring_....jpg"
     },
     {
+        "product_title": "Angelus Pinjet (5002)...",
+        "product_price": 600.0,
+        "path_to_image": "images/Angelus_Pinjet_(5002)....jpg"
+    },
+    {
         "product_title": "3m Espe Vitrebond Light Cure ...",
         "product_price": 2750.0,
         "path_to_image": "images/3m_Espe_Vitrebond_Light_Cure_....jpg"
-    },
-    {
-        "product_title": "Angelus Porcelain Conditioner...",
-        "product_price": 745.0,
-        "path_to_image": "images/Angelus_Porcelain_Conditioner....jpg"
     },
     {
         "product_title": "3M ESPE Express XT VPS Impres...",
@@ -255,9 +250,9 @@
         "path_to_image": "images/Api_Blue_Periotome_Set_of_3....jpg"
     },
     {
-        "product_title": "3m Espe Filtek Bulk Fill Comp...",
-        "product_price": 4495.0,
-        "path_to_image": "images/3m_Espe_Filtek_Bulk_Fill_Comp....jpg"
+        "product_title": "Angelus Porcelain Conditioner...",
+        "product_price": 745.0,
+        "path_to_image": "images/Angelus_Porcelain_Conditioner....jpg"
     },
     {
         "product_title": "Anabond Endoprep-Rc...",
@@ -265,24 +260,24 @@
         "path_to_image": "images/Anabond_Endoprep-Rc....jpg"
     },
     {
-        "product_title": "Angelus Reforpin Universal Pa...",
-        "product_price": 585.0,
-        "path_to_image": "images/Angelus_Reforpin_Universal_Pa....jpg"
-    },
-    {
         "product_title": "3M ESPE Vitrebond Plus Light ...",
         "product_price": 6900.0,
         "path_to_image": "images/3M_ESPE_Vitrebond_Plus_Light_....jpg"
     },
     {
+        "product_title": "3m Espe Filtek Bulk Fill Comp...",
+        "product_price": 4495.0,
+        "path_to_image": "images/3m_Espe_Filtek_Bulk_Fill_Comp....jpg"
+    },
+    {
+        "product_title": "Angelus Reforpin Universal Pa...",
+        "product_price": 585.0,
+        "path_to_image": "images/Angelus_Reforpin_Universal_Pa....jpg"
+    },
+    {
         "product_title": "API Bone Chisel & Mallet ...",
         "product_price": 175.0,
         "path_to_image": "images/API_Bone_Chisel_&_Mallet_....jpg"
-    },
-    {
-        "product_title": "3M Espe Filtek Supreme Flowab...",
-        "product_price": 1280.0,
-        "path_to_image": "images/3M_Espe_Filtek_Supreme_Flowab....jpg"
     },
     {
         "product_title": "3m Espe Vps Tray Adhesive...",
@@ -295,9 +290,9 @@
         "path_to_image": "images/Anabond_Orthofix_Kit....jpg"
     },
     {
-        "product_title": "Angelus Reforpost Carbon Fibe...",
-        "product_price": 1325.0,
-        "path_to_image": "images/Angelus_Reforpost_Carbon_Fibe....jpg"
+        "product_title": "3M Espe Filtek Supreme Flowab...",
+        "product_price": 1280.0,
+        "path_to_image": "images/3M_Espe_Filtek_Supreme_Flowab....jpg"
     },
     {
         "product_title": "API Bone Collector...",
@@ -305,9 +300,9 @@
         "path_to_image": "images/API_Bone_Collector....jpg"
     },
     {
-        "product_title": "3m Espe Filtek Z250 Xt Restor...",
-        "product_price": 1280.0,
-        "path_to_image": "images/3m_Espe_Filtek_Z250_Xt_Restor....jpg"
+        "product_title": "Angelus Reforpost Carbon Fibe...",
+        "product_price": 1325.0,
+        "path_to_image": "images/Angelus_Reforpost_Carbon_Fibe....jpg"
     },
     {
         "product_title": "3M Unitek Alastik Bobbin Chai...",
@@ -320,6 +315,11 @@
         "path_to_image": "images/Anabond_Orthofix_Light_Cure_A....jpg"
     },
     {
+        "product_title": "3m Espe Filtek Z250 Xt Restor...",
+        "product_price": 1280.0,
+        "path_to_image": "images/3m_Espe_Filtek_Z250_Xt_Restor....jpg"
+    },
+    {
         "product_title": "API Bone Curettes...",
         "product_price": 265.0,
         "path_to_image": "images/API_Bone_Curettes....jpg"
@@ -330,14 +330,14 @@
         "path_to_image": "images/Angelus_Reforpost_Fibre_Glass....jpg"
     },
     {
-        "product_title": "3M ESPE Impregum Soft \u2013...",
-        "product_price": 4495.0,
-        "path_to_image": "images/3M_ESPE_Impregum_Soft_\u2013....jpg"
-    },
-    {
         "product_title": "3M Unitek AlastiK Easy-To-Tie...",
         "product_price": 3230.0,
         "path_to_image": "images/3M_Unitek_AlastiK_Easy-To-Tie....jpg"
+    },
+    {
+        "product_title": "3M ESPE Impregum Soft \u2013...",
+        "product_price": 4495.0,
+        "path_to_image": "images/3M_ESPE_Impregum_Soft_\u2013....jpg"
     },
     {
         "product_title": "Anabond-Stedman Germafin Neo...",
@@ -355,9 +355,9 @@
         "path_to_image": "images/Angelus_Reforpost_Fibre_Glass....jpg"
     },
     {
-        "product_title": "3M ESPE Imprint Bite Registra...",
-        "product_price": 7790.0,
-        "path_to_image": "images/3M_ESPE_Imprint_Bite_Registra....jpg"
+        "product_title": "3m Unitek Clarity Advanced Ce...",
+        "product_price": 14350.0,
+        "path_to_image": "images/3m_Unitek_Clarity_Advanced_Ce....jpg"
     },
     {
         "product_title": "Anabond-Stedman Yuseal Pit &#...",
@@ -365,9 +365,9 @@
         "path_to_image": "images/Anabond-Stedman_Yuseal_Pit_&#....jpg"
     },
     {
-        "product_title": "3m Unitek Clarity Advanced Ce...",
-        "product_price": 14350.0,
-        "path_to_image": "images/3m_Unitek_Clarity_Advanced_Ce....jpg"
+        "product_title": "3M ESPE Imprint Bite Registra...",
+        "product_price": 7790.0,
+        "path_to_image": "images/3M_ESPE_Imprint_Bite_Registra....jpg"
     },
     {
         "product_title": "API Bone Injector...",
@@ -375,19 +375,14 @@
         "path_to_image": "images/API_Bone_Injector....jpg"
     },
     {
-        "product_title": "Angelus Reforpost Key...",
-        "product_price": 510.0,
-        "path_to_image": "images/Angelus_Reforpost_Key....jpg"
-    },
-    {
-        "product_title": "3m Espe Ketac Universal Glass...",
-        "product_price": 3195.0,
-        "path_to_image": "images/3m_Espe_Ketac_Universal_Glass....jpg"
-    },
-    {
         "product_title": "3m Unitek Forsus Fatigue Resi...",
         "product_price": 7750.0,
         "path_to_image": "images/3m_Unitek_Forsus_Fatigue_Resi....jpg"
+    },
+    {
+        "product_title": "Angelus Reforpost Key...",
+        "product_price": 510.0,
+        "path_to_image": "images/Angelus_Reforpost_Key....jpg"
     },
     {
         "product_title": "Angelus Bio-C Repair...",
@@ -395,24 +390,24 @@
         "path_to_image": "images/Angelus_Bio-C_Repair....jpg"
     },
     {
+        "product_title": "3m Espe Ketac Universal Glass...",
+        "product_price": 3195.0,
+        "path_to_image": "images/3m_Espe_Ketac_Universal_Glass....jpg"
+    },
+    {
         "product_title": "API Bone Mill...",
         "product_price": 8500.0,
         "path_to_image": "images/API_Bone_Mill....jpg"
     },
     {
-        "product_title": "Angelus Reforpost Metallic Re...",
-        "product_price": 660.0,
-        "path_to_image": "images/Angelus_Reforpost_Metallic_Re....jpg"
-    },
-    {
-        "product_title": "3M Espe mixing tips (BLUE) Pa...",
-        "product_price": 3255.0,
-        "path_to_image": "images/3M_Espe_mixing_tips_(BLUE)_Pa....jpg"
-    },
-    {
         "product_title": "3M Unitek Forsus Fatigue Resi...",
         "product_price": 6550.0,
         "path_to_image": "images/3M_Unitek_Forsus_Fatigue_Resi....jpg"
+    },
+    {
+        "product_title": "Angelus Reforpost Metallic Re...",
+        "product_price": 660.0,
+        "path_to_image": "images/Angelus_Reforpost_Metallic_Re....jpg"
     },
     {
         "product_title": "Angelus Bio-C Sealer Bioceram...",
@@ -425,14 +420,9 @@
         "path_to_image": "images/API_Bone_Rongeur....jpg"
     },
     {
-        "product_title": "Angelus Reforpost Mix \u2013...",
-        "product_price": 1325.0,
-        "path_to_image": "images/Angelus_Reforpost_Mix_\u2013....jpg"
-    },
-    {
-        "product_title": "3m Espe Monophase Polyether I...",
-        "product_price": 5143.0,
-        "path_to_image": "images/3m_Espe_Monophase_Polyether_I....jpg"
+        "product_title": "3M Espe mixing tips (BLUE) Pa...",
+        "product_price": 3255.0,
+        "path_to_image": "images/3M_Espe_mixing_tips_(BLUE)_Pa....jpg"
     },
     {
         "product_title": "3m Unitek Gemini Metal Twin B...",
@@ -445,14 +435,29 @@
         "path_to_image": "images/Angelus_Bio-C_Temp....jpg"
     },
     {
+        "product_title": "Angelus Reforpost Mix \u2013...",
+        "product_price": 1325.0,
+        "path_to_image": "images/Angelus_Reforpost_Mix_\u2013....jpg"
+    },
+    {
         "product_title": "API Boone\u2019s Gauge...",
         "product_price": 630.0,
         "path_to_image": "images/API_Boone\u2019s_Gauge....jpg"
     },
     {
+        "product_title": "3m Espe Monophase Polyether I...",
+        "product_price": 5143.0,
+        "path_to_image": "images/3m_Espe_Monophase_Polyether_I....jpg"
+    },
+    {
         "product_title": "3M Unitek Gemini Self Ligatin...",
         "product_price": 8180.0,
         "path_to_image": "images/3M_Unitek_Gemini_Self_Ligatin....jpg"
+    },
+    {
+        "product_title": "Angelus Endodontic Ruler...",
+        "product_price": 350.0,
+        "path_to_image": "images/Angelus_Endodontic_Ruler....jpg"
     },
     {
         "product_title": "Angelus Repair Kit...",
@@ -465,19 +470,9 @@
         "path_to_image": "images/3m_Espe_P-60_Micro_Hybrid_Pos....jpg"
     },
     {
-        "product_title": "Angelus Endodontic Ruler...",
-        "product_price": 350.0,
-        "path_to_image": "images/Angelus_Endodontic_Ruler....jpg"
-    },
-    {
         "product_title": "API BP Handle...",
         "product_price": 265.0,
         "path_to_image": "images/API_BP_Handle....jpg"
-    },
-    {
-        "product_title": "Angelus Silano...",
-        "product_price": 1130.0,
-        "path_to_image": "images/Angelus_Silano....jpg"
     },
     {
         "product_title": "3M Unitek Transbond Plus Colo...",
@@ -490,6 +485,11 @@
         "path_to_image": "images/Angelus_Endometric....jpg"
     },
     {
+        "product_title": "Angelus Silano...",
+        "product_price": 1130.0,
+        "path_to_image": "images/Angelus_Silano....jpg"
+    },
+    {
         "product_title": "3m Espe Pediatric Strip Crown...",
         "product_price": 1230.0,
         "path_to_image": "images/3m_Espe_Pediatric_Strip_Crown....jpg"
@@ -500,24 +500,14 @@
         "path_to_image": "images/API_Bracket_Height_Gauge_0.18....jpg"
     },
     {
-        "product_title": "Angelus Syringe Sleeve...",
-        "product_price": 1465.0,
-        "path_to_image": "images/Angelus_Syringe_Sleeve....jpg"
-    },
-    {
-        "product_title": "Angelus Exacto Intro Kit...",
-        "product_price": 6490.0,
-        "path_to_image": "images/Angelus_Exacto_Intro_Kit....jpg"
-    },
-    {
         "product_title": "3M Unitek Transbond XT Adhesi...",
         "product_price": 2800.0,
         "path_to_image": "images/3M_Unitek_Transbond_XT_Adhesi....jpg"
     },
     {
-        "product_title": "3M ESPE Pedodontic Strip Crow...",
-        "product_price": 20500.0,
-        "path_to_image": "images/3M_ESPE_Pedodontic_Strip_Crow....jpg"
+        "product_title": "Angelus Syringe Sleeve...",
+        "product_price": 1465.0,
+        "path_to_image": "images/Angelus_Syringe_Sleeve....jpg"
     },
     {
         "product_title": "Api Bracket Holding Tweezer W...",
@@ -525,9 +515,9 @@
         "path_to_image": "images/Api_Bracket_Holding_Tweezer_W....jpg"
     },
     {
-        "product_title": "API Allis Forceps...",
-        "product_price": 525.0,
-        "path_to_image": "images/API_Allis_Forceps....jpg"
+        "product_title": "3M ESPE Pedodontic Strip Crow...",
+        "product_price": 20500.0,
+        "path_to_image": "images/3M_ESPE_Pedodontic_Strip_Crow....jpg"
     },
     {
         "product_title": "3m Unitek Unite Adhesive Syri...",
@@ -535,14 +525,14 @@
         "path_to_image": "images/3m_Unitek_Unite_Adhesive_Syri....jpg"
     },
     {
-        "product_title": "Angelus Exacto Refill Pack...",
-        "product_price": 2390.0,
-        "path_to_image": "images/Angelus_Exacto_Refill_Pack....jpg"
+        "product_title": "Angelus Exacto Intro Kit...",
+        "product_price": 6490.0,
+        "path_to_image": "images/Angelus_Exacto_Intro_Kit....jpg"
     },
     {
-        "product_title": "3m Espe Relyx Ceramic Primer...",
-        "product_price": 1640.0,
-        "path_to_image": "images/3m_Espe_Relyx_Ceramic_Primer....jpg"
+        "product_title": "API Allis Forceps...",
+        "product_price": 525.0,
+        "path_to_image": "images/API_Allis_Forceps....jpg"
     },
     {
         "product_title": "API Bracket Placing Tweezer...",
@@ -550,9 +540,9 @@
         "path_to_image": "images/API_Bracket_Placing_Tweezer....jpg"
     },
     {
-        "product_title": "API Amalgam Carrier...",
-        "product_price": 730.0,
-        "path_to_image": "images/API_Amalgam_Carrier....jpg"
+        "product_title": "3m Espe Relyx Ceramic Primer...",
+        "product_price": 1640.0,
+        "path_to_image": "images/3m_Espe_Relyx_Ceramic_Primer....jpg"
     },
     {
         "product_title": "3m Unitek Victory Series Twin...",
@@ -560,14 +550,14 @@
         "path_to_image": "images/3m_Unitek_Victory_Series_Twin....jpg"
     },
     {
-        "product_title": "Angelus Exacto Trial Pack...",
-        "product_price": 2695.0,
-        "path_to_image": "images/Angelus_Exacto_Trial_Pack....jpg"
+        "product_title": "Angelus Exacto Refill Pack...",
+        "product_price": 2390.0,
+        "path_to_image": "images/Angelus_Exacto_Refill_Pack....jpg"
     },
     {
-        "product_title": "3m Espe Relyx Luting 2 Refill...",
-        "product_price": 4580.0,
-        "path_to_image": "images/3m_Espe_Relyx_Luting_2_Refill....jpg"
+        "product_title": "API Amalgam Carrier...",
+        "product_price": 730.0,
+        "path_to_image": "images/API_Amalgam_Carrier....jpg"
     },
     {
         "product_title": "API Bracket Remover...",
@@ -575,9 +565,9 @@
         "path_to_image": "images/API_Bracket_Remover....jpg"
     },
     {
-        "product_title": "API Amalgam Well...",
-        "product_price": 1050.0,
-        "path_to_image": "images/API_Amalgam_Well....jpg"
+        "product_title": "3m Espe Relyx Luting 2 Refill...",
+        "product_price": 4580.0,
+        "path_to_image": "images/3m_Espe_Relyx_Luting_2_Refill....jpg"
     },
     {
         "product_title": "Advance Biotech Osseomould...",
@@ -585,14 +575,24 @@
         "path_to_image": "images/Advance_Biotech_Osseomould....jpg"
     },
     {
-        "product_title": "Angelus Flex Surgical Ejector...",
-        "product_price": 2490.0,
-        "path_to_image": "images/Angelus_Flex_Surgical_Ejector....jpg"
+        "product_title": "Angelus Exacto Trial Pack...",
+        "product_price": 2695.0,
+        "path_to_image": "images/Angelus_Exacto_Trial_Pack....jpg"
+    },
+    {
+        "product_title": "API Amalgam Well...",
+        "product_price": 1050.0,
+        "path_to_image": "images/API_Amalgam_Well....jpg"
     },
     {
         "product_title": "3m Espe Relyx Veneer Cement...",
         "product_price": 2450.0,
         "path_to_image": "images/3m_Espe_Relyx_Veneer_Cement....jpg"
+    },
+    {
+        "product_title": "Angelus Flex Surgical Ejector...",
+        "product_price": 2490.0,
+        "path_to_image": "images/Angelus_Flex_Surgical_Ejector....jpg"
     },
     {
         "product_title": "API Artery Forceps...",
